@@ -1,0 +1,6 @@
+title: aokick
+description: aokick が個人で開発しているアプリのサポートページです。
+lang: ja
+theme: jekyll-theme-primer
+exclude:
+  - README.md
